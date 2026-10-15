@@ -1,0 +1,5 @@
+# Build output
+*.exe
+*.o
+*.obj
+example
